@@ -1,0 +1,45 @@
+
+h1 {
+    background-color: black;
+    color:white;
+    margin: 0;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 28px;
+}
+
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 200%;
+
+}
+
+.intro {
+    float: left;
+    width: 40%;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+a {
+    color:red
+}
+
+li {
+    list-style-type: square;
+}
+
+#picture {
+    float: left;
+    width: 50%;     
+    height: auto; 
+}
+
+
+
